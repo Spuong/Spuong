@@ -1,0 +1,23 @@
+Button{
+    color: var(--727-a-83, #727A83);
+font-family: Urbanist;
+font-size: 19.257px;
+font-style: initial;
+font-weight: 600;
+line-height: 150%; /* 28.886px */
+letter-spacing: 0.578px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #ffffff;
+}
